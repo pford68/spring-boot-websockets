@@ -1,7 +1,7 @@
 package hello;
 
 /**
- * Created by philip on 9/7/15.
+ * Represents a greeting
  */
 public class Greeting {
     private String content;

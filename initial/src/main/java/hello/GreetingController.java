@@ -5,7 +5,7 @@ import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;
 
 /**
- * Created by philip on 9/7/15.
+ * Web Socket controller
  */
 @Controller
 public class GreetingController {

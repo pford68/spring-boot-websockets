@@ -1,7 +1,7 @@
 package hello;
 
 /**
- * Created by philip on 9/7/15.
+ * Represents the contents of a message
  */
 public class HelloMesage {
 
